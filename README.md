@@ -20,7 +20,7 @@ Welcome to the PhonePe Data Visualization and Exploration project! This Streamli
 
 ## 1. Clone the repository:
 
-git clone https://github.com/your-username/phonepe-data-viz.git
+git clone https://github.com/scholarisravi/Phonepe-Pulse-Data-Visualization.git
 
 ## 2.Install dependencies:
 
